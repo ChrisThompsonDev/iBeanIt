@@ -15,5 +15,8 @@ This started as a template from HTML5UP.net. I modified to fit the the requireme
 
 Also check out other projects of mine like this one!:
 
+[Rachel Thomas Massage Therapy](https://rachelthomaslmbt.netlify.app/)
+
 [I Bean It Coffee](https://github.com/ChrisThompsonDev/kronicTattoo)
+
 
